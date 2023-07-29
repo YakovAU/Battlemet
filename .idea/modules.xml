@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DayzServerInfo.iml" filepath="$PROJECT_DIR$/.idea/DayzServerInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BattleTracker.iml" filepath="$PROJECT_DIR$/.idea/BattleTracker.iml" />
     </modules>
   </component>
 </project>
